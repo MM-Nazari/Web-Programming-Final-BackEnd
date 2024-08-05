@@ -7,8 +7,10 @@
 - [Contributors](#contributors)
 
 ## Project Description
-
 For a detailed project description, please refer to the [Project Description PDF](./Web%20Programming%20Fall%202023%20Project%20Phase1.pdf).
+
+## Built With
+- [Django](https://www.djangoproject.com/)
 
 ## IDE
 This project is developed using PyCharm.
